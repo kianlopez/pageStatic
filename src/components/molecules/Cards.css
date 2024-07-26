@@ -1,0 +1,6 @@
+#div_div-cards{
+    margin: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}

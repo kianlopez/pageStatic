@@ -1,0 +1,11 @@
+#cards-section2 {
+    width: 100%;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: #ffecb3; 
+    padding: 20px;
+    margin-bottom: 20px;
+}
